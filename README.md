@@ -11,5 +11,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pr4thams&show_icons=true&locale=en&layout=compact" alt="pr4thams" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pr4thams&" alt="pr4thams" /></p>
+<p><img align="center" src="[![GitHub Streak](https://streak-stats.demolab.com?user=pr4thams&theme=dark&hide_border=true)](https://git.io/streak-stats)" alt="pr4thams" /></p>
 
