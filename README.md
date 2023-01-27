@@ -10,6 +10,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pr4thams&show_icons=true&locale=en&layout=compact" alt="pr4thams" /></p>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
 
-<p><img align="center" src="[![GitHub Streak](https://streak-stats.demolab.com?user=pr4thams&theme=dark&hide_border=true)](https://git.io/streak-stats)" alt="pr4thams" /></p>
 
