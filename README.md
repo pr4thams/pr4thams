@@ -10,6 +10,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pr4thams&show_icons=true&locale=en&layout=compact" alt="pr4thams" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pr4thams&show_icons=true&locale=en" alt="pr4thams" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pr4thams&" alt="pr4thams" /></p>
 
