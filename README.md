@@ -3,7 +3,7 @@
 
 <table width="100%">
     <tr>
-       <td width="60%">
+       <td width="55%">
 
 ### 👨🏻‍💻 &nbsp;About Me
 
