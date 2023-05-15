@@ -25,3 +25,31 @@
         </td>
     </tr>
 </table>
+<table><tr><td>
+    
+### Frontend
+<div align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind" />
+</a>
+</div>
+    
+</td>
+<td>
+    
+### Backend
+<div align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" />
+</a>
+</div>
+    
+</td>
+<td>
+    
+<!-- ### Cloud Technologies
+<div align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind" />
+</a>
+</div> -->
