@@ -11,7 +11,7 @@
 - 🌱 I'm currently learning Full-Stack web development.
 - 🤝 Working towards becoming a AWS Cloud Developer.
 - 🔭 I'm currently looking for Software Development internships in Fall 2023.
-- 📫 Reach out to me at [LinkedIn](https://www.linkedin.com/in/pr4thams/) or [Email](prathams@mun.ca).
+- 📫 Reach out to me at [LinkedIn](https://www.linkedin.com/in/pr4thams/) or prathams@mun.ca
     </td>
     <td>
 
