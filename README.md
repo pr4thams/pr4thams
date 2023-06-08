@@ -1,5 +1,4 @@
 <h1 align="center">Hi, Nice to see you here!</h1>
-<h2 align="center">A passionate future Software Developer!</h2>
 
 <table width="100%">
     <tr>
