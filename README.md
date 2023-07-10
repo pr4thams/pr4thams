@@ -2,7 +2,7 @@
 
 ⚡ Senior Computer Science student at Memorial University, specializing in Full-Stack web development while concurrently advancing skills in Machine Learning, DSA, and AWS Services.
 
-📫 Contactable via [LinkedIn](https://www.linkedin.com/in/pr4thams/) or <prathams@mun.ca>
+📫 Contactable via [LinkedIn](https://www.linkedin.com/in/pr4thams/) or [Email](mailto:prathams@mun.ca)
 
 ### GitHub Analytics
 <table width="100%" border="0">
