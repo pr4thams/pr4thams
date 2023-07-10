@@ -5,7 +5,7 @@
 📫 Contactable via [LinkedIn](https://www.linkedin.com/in/pr4thams/) or <prathams@mun.ca>
 
 ### GitHub Analytics
-<table width="100%">
+<table width="100%" border="0">
     <tr>
         <td width="50%">
             <p align="center">
