@@ -1,6 +1,6 @@
 ### **Hi, Nice to see you here!👋**
 
-⚡ Senior Computer Science student at Memorial University, with a specialization in Full-Stack web development and aspirations to become an AWS Cloud Developer.
+⚡ Senior Computer Science student at Memorial University, specializing in Full-Stack web development while concurrently advancing skills in Machine Learning, DSA, and AWS Services.
 
 📫 Contactable via [LinkedIn](https://www.linkedin.com/in/pr4thams/) or <prathams@mun.ca>
 
